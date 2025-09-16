@@ -4,8 +4,6 @@ title: Contact
 toc: true
 ---
 
-We hope this site is useful and informative. We've done our best to ensure the data is correct and indexed properly. Over time, we will make changes to any information that is found to be incorrect.
-
 Please include your email address if you want a response. If you found a problem with the data or website hosting, please include a link to the page(s) where you found the problem in the Message area.
 
 **NOTE:** Pressing the *Submit* button on this form will open a new browser window. You must also press *Submit* on that form.
@@ -22,4 +20,3 @@ Please include your email address if you want a response. If you found a problem
      
       <button type="submit">Send</button>
 </form>
-
