@@ -21,6 +21,7 @@ favicon: "/assets/banners/favicon.png" # the favicon for your site
 logo: &logo "/assets/images/favicon.png"
 og_image: "/assets/images/favicon.png"
 date_format: "%A, %B %-d, %Y"
+background_image: "/assets/images/okmap-bg.jpg"
 
 # Build settings
 markdown: kramdown
